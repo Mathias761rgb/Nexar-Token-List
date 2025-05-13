@@ -1,3 +1,4 @@
+![Nexar Logo](./docs/logo.png)
 # Nexar (NXR) - ERC20 Token
 
 Nexar é uma criptomoeda desenvolvida para revolucionar o mercado financeiro digital, proporcionando transações rápidas, seguras e com alta escalabilidade. Com foco em acessibilidade, staking e governança descentralizada, Nexar está pronta para liderar o futuro das finanças.
